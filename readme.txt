@@ -1,1 +1,0 @@
-Training ruby and git
